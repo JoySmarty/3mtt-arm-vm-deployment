@@ -405,16 +405,17 @@ The ARM template should be updated to use SSH keys instead of passwords.
 }
 ```
 
+```md id="fixend1"
 ---
 
 ### 🎯 Benefit of this improvement:
 
-* Stronger authentication security
-* Eliminates password-based vulnerabilities
-* Aligns with DevOps and cloud security best practices
-* Suitable for automation and production environments
+- Stronger authentication security  
+- Eliminates password-based vulnerabilities  
+- Aligns with DevOps and cloud security best practices  
+- Suitable for automation and production environments  
 
-```
+---
 
 ## 👤 Author
 
