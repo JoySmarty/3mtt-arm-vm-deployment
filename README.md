@@ -1,9 +1,6 @@
 # 3mtt-arm-vm-deployment
 My first VM deployment project in Azure
 
-Here’s a **fully detailed, submission-ready README.md** you can paste directly into your GitHub repo. I made it structured, professional, and aligned with your rubric (this is the kind that gets top marks).
-
----
 
 ````md
 # 🚀 Azure ARM Virtual Machine Deployment Project
