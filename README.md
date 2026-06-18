@@ -291,6 +291,6 @@ It highlights real-world DevOps practices including:
 
 ## 👤 Author
 
-DevOps Learner Project – Azure ARM Deployment Lab
+Cloud Computing Learner Project – Azure ARM Deployment Lab
 
 ```
