@@ -405,7 +405,6 @@ The ARM template should be updated to use SSH keys instead of passwords.
 }
 ```
 
-```md id="fixend1"
 ---
 
 ### 🎯 Benefit of this improvement:
